@@ -1,0 +1,9 @@
+@import url("~leaflet/dist/leaflet.css");
+.leaflet-container {
+  width: 50%;
+  height: 500px;
+}
+.App{
+  margin-left:100px;
+  margin-top:90px
+}
